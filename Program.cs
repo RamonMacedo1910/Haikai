@@ -8,4 +8,4 @@ Console.WriteLine("");
     Console.WriteLine("      por isso ela corre");
     Console.WriteLine("      em passos de dança");
 
-                                Console.WriteLine("                              Eugénea Tabosa");
+                                Console.WriteLine("                              Eugénia Tabosa");
